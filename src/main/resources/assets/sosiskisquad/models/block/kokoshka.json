@@ -1,0 +1,9 @@
+{
+  "parent": "sosiskisquad:custom/kokoshka_doll",
+  "textures": {
+    "all": "sosiskisquad:block/kokoshka_doll",
+    "particle": "sosiskisquad:block/kokoshka_doll",
+    "0": "sosiskisquad:block/kokoshka_doll"
+  },
+  "render_type": "solid"
+}

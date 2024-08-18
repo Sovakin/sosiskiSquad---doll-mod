@@ -1,0 +1,123 @@
+{
+  "mod_elements": [
+    {
+      "name": "Depoha",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "depoha",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sosiskisquad/blockstates/depoha.json",
+          "src/main/java/net/sovakin/sosiskisquad/block/DepohaBlock.java",
+          "src/main/java/net/sovakin/sosiskisquad/block/entity/DepohaBlockEntity.java",
+          "src/main/resources/assets/sosiskisquad/models/block/depoha.json",
+          "src/main/resources/data/sosiskisquad/loot_tables/blocks/depoha.json",
+          "src/main/resources/assets/sosiskisquad/models/item/depoha.json"
+        ]
+      }
+    },
+    {
+      "name": "Babyzarg",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "babyzarg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/sosiskisquad/loot_tables/blocks/babyzarg.json",
+          "src/main/resources/assets/sosiskisquad/models/block/babyzarg.json",
+          "src/main/resources/assets/sosiskisquad/blockstates/babyzarg.json",
+          "src/main/java/net/sovakin/sosiskisquad/block/BabyzargBlock.java",
+          "src/main/java/net/sovakin/sosiskisquad/block/entity/BabyzargBlockEntity.java",
+          "src/main/resources/assets/sosiskisquad/models/item/babyzarg.json"
+        ]
+      }
+    },
+    {
+      "name": "Wang",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wang",
+      "metadata": {
+        "files": [
+          "src/main/java/net/sovakin/sosiskisquad/block/entity/WangBlockEntity.java",
+          "src/main/resources/data/sosiskisquad/loot_tables/blocks/wang.json",
+          "src/main/java/net/sovakin/sosiskisquad/block/WangBlock.java",
+          "src/main/resources/assets/sosiskisquad/models/item/wang.json",
+          "src/main/resources/assets/sosiskisquad/blockstates/wang.json",
+          "src/main/resources/assets/sosiskisquad/models/block/wang.json"
+        ]
+      }
+    },
+    {
+      "name": "Vladrogovsky",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vladrogovsky",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sosiskisquad/blockstates/vladrogovsky.json",
+          "src/main/java/net/sovakin/sosiskisquad/block/VladrogovskyBlock.java",
+          "src/main/resources/assets/sosiskisquad/models/block/vladrogovsky.json",
+          "src/main/resources/data/sosiskisquad/loot_tables/blocks/vladrogovsky.json",
+          "src/main/resources/assets/sosiskisquad/models/item/vladrogovsky.json",
+          "src/main/java/net/sovakin/sosiskisquad/block/entity/VladrogovskyBlockEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Kokoshka",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kokoshka",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/sosiskisquad/blockstates/kokoshka.json",
+          "src/main/java/net/sovakin/sosiskisquad/block/entity/KokoshkaBlockEntity.java",
+          "src/main/resources/assets/sosiskisquad/models/block/kokoshka.json",
+          "src/main/resources/data/sosiskisquad/loot_tables/blocks/kokoshka.json",
+          "src/main/resources/assets/sosiskisquad/models/item/kokoshka.json",
+          "src/main/java/net/sovakin/sosiskisquad/block/KokoshkaBlock.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.sosiskisquad.babyzarg": "BabyZarg",
+      "block.sosiskisquad.vladrogovsky": "VladRogovsky",
+      "block.sosiskisquad.depoha": "Depoha",
+      "block.sosiskisquad.kokoshka": "MrKokoshka",
+      "block.sosiskisquad.wang": "Wang"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "sosiskisquad",
+    "modName": "SOSISKISQUAD",
+    "version": "1.0.0",
+    "author": "s0vakin",
+    "websiteURL": "https://twitchworld.ru/",
+    "license": "Not specified",
+    "serverSideOnly": true,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "sosiskisquad",
+    "modElementsPackage": "net.sovakin.sosiskisquad"
+  },
+  "mcreatorVersion": 202400232117
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sosiskisquad:block/kokoshka"
+    },
+    "facing=east": {
+      "model": "sosiskisquad:block/kokoshka",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sosiskisquad:block/kokoshka",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sosiskisquad:block/kokoshka",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "sosiskisquad:custom/babyzarg_doll",
+  "textures": {
+    "all": "sosiskisquad:block/babyzarg_doll",
+    "particle": "sosiskisquad:block/babyzarg_doll",
+    "0": "sosiskisquad:block/babyzarg_doll"
+  },
+  "render_type": "solid"
+}

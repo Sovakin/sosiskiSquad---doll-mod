@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sosiskisquad:block/vladrogovsky"
+    },
+    "facing=east": {
+      "model": "sosiskisquad:block/vladrogovsky",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sosiskisquad:block/vladrogovsky",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sosiskisquad:block/vladrogovsky",
+      "y": 270
+    }
+  }
+}

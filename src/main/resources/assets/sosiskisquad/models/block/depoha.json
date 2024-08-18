@@ -1,0 +1,9 @@
+{
+  "parent": "sosiskisquad:custom/spider_plushie",
+  "textures": {
+    "all": "sosiskisquad:block/depoha_png",
+    "particle": "sosiskisquad:block/depoha_png",
+    "0": "sosiskisquad:block/depoha_png"
+  },
+  "render_type": "solid"
+}

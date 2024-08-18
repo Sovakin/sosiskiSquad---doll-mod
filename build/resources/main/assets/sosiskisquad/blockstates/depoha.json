@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sosiskisquad:block/depoha"
+    },
+    "facing=east": {
+      "model": "sosiskisquad:block/depoha",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sosiskisquad:block/depoha",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sosiskisquad:block/depoha",
+      "y": 270
+    }
+  }
+}

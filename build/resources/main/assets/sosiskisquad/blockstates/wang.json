@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sosiskisquad:block/wang"
+    },
+    "facing=east": {
+      "model": "sosiskisquad:block/wang",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sosiskisquad:block/wang",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sosiskisquad:block/wang",
+      "y": 270
+    }
+  }
+}

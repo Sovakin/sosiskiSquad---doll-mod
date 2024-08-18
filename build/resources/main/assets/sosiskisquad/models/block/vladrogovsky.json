@@ -1,0 +1,9 @@
+{
+  "parent": "sosiskisquad:custom/vladrogovsky_doll",
+  "textures": {
+    "all": "sosiskisquad:block/vladrogovsky_doll",
+    "particle": "sosiskisquad:block/vladrogovsky_doll",
+    "0": "sosiskisquad:block/vladrogovsky_doll"
+  },
+  "render_type": "solid"
+}

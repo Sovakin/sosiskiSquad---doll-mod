@@ -1,0 +1,9 @@
+{
+  "parent": "sosiskisquad:custom/endermite_plushie",
+  "textures": {
+    "all": "sosiskisquad:block/endermite_plushie",
+    "particle": "sosiskisquad:block/endermite_plushie",
+    "0": "sosiskisquad:block/endermite_plushie"
+  },
+  "render_type": "solid"
+}
